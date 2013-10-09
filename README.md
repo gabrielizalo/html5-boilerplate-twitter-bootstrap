@@ -7,7 +7,7 @@ Unimos *rápidamente* los geniales [HTML5 Boilerplate](http://html5boilerplate.c
  
 ## Versiones
 - HTML5 Boilerplate v4.3.0 
-- Twitter Bootstrap v2.3.2
+- Twitter Bootstrap v3.0.0
 
 
 ## Cómo comenzar...
